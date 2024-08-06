@@ -1,7 +1,3 @@
-Here's a sample README for the Wythoff Nim game book:
-
----
-
 # Wythoff Nim Game Book
 
 ## Overview
